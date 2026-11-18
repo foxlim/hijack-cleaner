@@ -1,0 +1,11 @@
+# 发行仓：只保留文档与发行包
+*.tmp
+*.log
+Thumbs.db
+.DS_Store
+.vs/
+*.user
+# 注意：releases/*.zip 必须入库，它会被 workflow 上传为 Release 资产
+
+# 脱敏处理前的原始截图备份（不入库）
+*.orig.png

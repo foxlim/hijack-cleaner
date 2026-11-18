@@ -1,0 +1,56 @@
+# 最终用户许可协议（EULA）· End User License Agreement
+
+抢占清理器（HijackCleaner）v1.0.0
+版权所有 (c) 2026 黎工搞工控[foxlim] · SHFUBANG &lt;foxlim@163.com&gt;。保留所有权利。
+Copyright (c) 2026 黎工搞工控[foxlim] · SHFUBANG &lt;foxlim@163.com&gt;. All rights reserved.
+
+安装、复制或运行本软件，即表示你接受本协议。如不接受，请勿使用并删除本软件。
+By installing, copying, or running this software you accept this agreement. If you do not accept it, do not use the software and delete it.
+
+---
+
+## 一、授权范围 / Grant
+
+1. 允许免费下载、安装、运行本软件，用于**个人使用或企业内部使用，不限安装台数**。
+   You may download, install and run this software free of charge for personal or internal business use, on an unlimited number of machines.
+2. 允许在**未经修改**的前提下，完整转载本软件的原始发行包（必须同时包含本协议、作者署名与原始文件），且不得收费、不得作为下载站的"高速下载器"或捆绑包分发。
+   You may redistribute the unmodified original package, provided this agreement and the author attribution are included, and no fee is charged and no bundling is involved.
+
+## 二、禁止行为 / Prohibited
+
+1. **禁止逆向**：不得反编译、反汇编、脱壳、动态注入或以任何方式试图获取本软件的源代码、内部算法与判定规则（法律强制允许的互操作性情形除外）。
+   No reverse engineering: decompiling, disassembling, unpacking, injecting, or otherwise attempting to derive source code, internal algorithms or detection rules.
+2. **禁止修改与换皮**：不得修改本软件，不得删除、遮蔽或篡改任何版权声明、版本信息、作者署名、程序名称或数字签名；不得改名后重新发布。
+   No modification or rebranding: do not alter or remove copyright notices, version info, author attribution, product name or digital signature; do not republish under another name.
+3. **禁止衍生与商用**：不得以本软件为基础制作衍生作品；不得销售、出租、按次收费、或以本软件为赠品进行商业推广；不得将本软件放入任何收费下载站、软件管家、捆绑安装包。
+   No derivative works and no commercial exploitation: no selling, renting, per-use charging, or using it as a promotional giveaway; no placement in paid download sites, software managers or bundles.
+4. **禁止绕过授权机制**：不得绕过、禁用或伪造任何许可证校验、完整性校验或更新校验机制。
+   No circumvention of licensing, integrity or update verification.
+5. **禁止用于未授权设备**：不得在你不拥有管理权限、或未取得设备所有者书面授权的机器上运行。
+   Do not run it on machines you do not administer or are not authorized to modify.
+
+## 三、允许的例外 / Permitted exceptions
+
+- 出于安全审计、学术研究或漏洞报告目的，可在**不公开披露**的前提下对二进制进行分析，并仅向作者本人报告结果。
+  Security auditing, academic research or vulnerability reporting is permitted provided the findings are disclosed only to the author and not published.
+- 企业用户可在内部网络中镜像本软件的原始发行包，用于批量部署。
+  Enterprise users may mirror the unmodified package internally for deployment.
+
+## 四、免责 / Disclaimer
+
+本软件按"现状"提供，不附带任何明示或默示担保。本软件会**删除软件、修改注册表、结束进程**；使用者须自行确认目标正确并保留备份。在法律允许的最大范围内，作者不对任何直接或间接损失（含数据丢失、业务中断）承担责任。
+The software is provided "AS IS" without warranty of any kind. It deletes software, modifies the registry and terminates processes; you are responsible for confirming the targets and keeping backups. To the maximum extent permitted by law the author is not liable for any direct or indirect damages.
+
+## 五、终止 / Termination
+
+违反本协议任一条款，授权自动终止，你须立即停止使用并删除本软件的全部副本。
+Any breach terminates this license automatically; you must stop using the software and delete all copies.
+
+## 六、其他 / Miscellaneous
+
+- 本协议适用中华人民共和国法律。争议由作者所在地有管辖权的法院处理。
+  This agreement is governed by the laws of the People's Republic of China.
+- 本协议以中文与英文双语写成，如有歧义以中文为准。
+  This agreement is written in Chinese and English; the Chinese version prevails in case of ambiguity.
+- 如需商业授权、OEM 分发或二次开发许可，请联系作者。
+  For commercial licensing, OEM distribution or development rights, contact the author.
